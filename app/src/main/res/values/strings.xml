@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Constraint Layout</string>
+    <string name="Hello_World">Hello World!</string>
+    <string name="box_one">Box One</string>
+    <string name="box_two">Box Two</string>
+    <string name="box_three">Box Three</string>
+    <string name="box_fourth">Box Fourth</string>
+    <string name="box_five">Box Five</string>
+</resources>
